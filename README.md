@@ -1,5 +1,3 @@
-var str = "Hello, playground"
-    
 Below is an example of variable execution, and the retrieval of results based on the rules set by said varianbles. Below the code there is an explanation on the process of this entire song lyric printing program.
     
 		let A = 1
